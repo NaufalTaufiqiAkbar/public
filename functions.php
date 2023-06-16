@@ -270,13 +270,6 @@ function user_name(){
         return $_SESSION['username'];
 }
 
-
-
-//#########################################
-
-//#######################################
-//#########################################
-
 //#######################################
 //the function to send the messages from the contact us page to admin
 function send_message (){
@@ -598,8 +591,6 @@ echo $slide_active;
     }
 
 }
-
-
 
 function get_slides() {
 
